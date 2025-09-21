@@ -11,7 +11,7 @@
   ⤷ ゛ABT PONY TOWN ˎˊ˗
   <br />
   <br />
-  Please read my dnis before you interact on my strawpage!!
+  Please read my dnis on my strawpage before you interact!!
   <br />
   C+H freely!! I'm always open to any interactions!
   <br />
