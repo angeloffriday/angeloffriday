@@ -1,16 +1,21 @@
-## Hi there 👋
-
-<!--
-**angeloffriday/angeloffriday** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img width="1197" height="207" alt="image" src="https://github.com/user-attachments/assets/6766690e-cf7a-4784-803f-769519793789" />
+<br />
+<p align="center">
+𝐄𝐌𝐈 / 𝐄𝐌
+  <br />
+  she / her
+<p>
+  <br />
+<img width="1196" height="207" alt="image" src="https://github.com/user-attachments/assets/bbf62a16-ccc6-4ccc-ac65-43f159142d48" />
+<p align="center">
+  ⤷ ゛ABT PONY TOWN ˎˊ˗
+  <br />
+  <br />
+  Please read my dnis before you interact on my strawpage!!
+  <br />
+  C+H freely!! I'm always open to any interactions!
+  <br />
+  Don't worry about being shy, I am too!
+  <br />
+  More things abt me on my strawpage!! (still a wip :P)
+  <p>
