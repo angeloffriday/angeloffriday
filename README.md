@@ -3,7 +3,7 @@
 <p align="center">
 𝐄𝐌𝐈 / 𝐄𝐌
   <br />
-  she / her
+  she / any
 <p>
   <br />
 <img width="1196" height="207" alt="image" src="https://github.com/user-attachments/assets/bbf62a16-ccc6-4ccc-ac65-43f159142d48" />
