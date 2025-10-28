@@ -5,7 +5,7 @@
   <br />
   she / any
   <br />
-  18 + yo
+  19 yo
 <p>
   <br />
 <img width="1196" height="207" alt="image" src="https://github.com/user-attachments/assets/bbf62a16-ccc6-4ccc-ac65-43f159142d48" />
