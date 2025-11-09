@@ -2,8 +2,6 @@
 <br />
 <br />
 <p align="center">
-  [1](https://komarev.com/ghpvc/?username=your-github-username)
-  <br />
 𝐄𝐌𝐈 / 𝐄𝐌
   <br />
   she / any
