@@ -3,6 +3,9 @@
 <br />
 <br />
 <p align="center">
+<img src="https://sanishtech.com/i/69106af75cc23-1762683639.png" alt="Sans titre 102_20251109111906" width="492" height="392" loading="lazy" style="max-width:10%;height:
+<p align="center">
+  <br />
 𝐄𝐌𝐈 / 𝐄𝐌
   <br />
   she / any
