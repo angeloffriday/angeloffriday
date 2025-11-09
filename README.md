@@ -2,10 +2,7 @@
 <br />
 <br />
 <p align="center">
-  Profile views
-Profile views
-0
-0
+  
   <br />
 𝐄𝐌𝐈 / 𝐄𝐌
   <br />
