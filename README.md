@@ -2,6 +2,9 @@
 <br />
 <br />
 <p align="center">
+  <br />
+  ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=angeloffriday)
+  <br />
 𝐄𝐌𝐈 / 𝐄𝐌
   <br />
   she / any
