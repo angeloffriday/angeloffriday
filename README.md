@@ -2,7 +2,7 @@
 <br />
 <br />
 <p align="center">
-  ![](https://komarev.com/ghpvc/?username=angeloffriday)
+  <https://komarev.com/ghpvc/?username=angeloffriday>
   <br />
 𝐄𝐌𝐈 / 𝐄𝐌
   <br />
