@@ -2,7 +2,10 @@
 <br />
 <br />
 <p align="center">
-  (https://komarev.com/ghpvc/?username=angeloffriday)
+  Profile views
+Profile views
+0
+0
   <br />
 𝐄𝐌𝐈 / 𝐄𝐌
   <br />
