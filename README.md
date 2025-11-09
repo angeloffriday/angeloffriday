@@ -3,6 +3,7 @@
 <p align="center">
   <img src="https://sanishtech.com/i/69106ff0718df-1762684912.png" alt="Sans titre 103_20251109113449" width="492" height="392" loading="lazy" style="max-width:100%;height:auto;">
 <p align="center">
+  <img src="https://sanishtech.com/i/6910774de3394-1762686797.png" alt="IMG_1519" width="100" height="100" loading="lazy" style="max-width:100%;height:auto;">
   <br />
   𝐄𝐌𝐈 / 𝐄𝐌
   <br />
