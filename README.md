@@ -5,7 +5,7 @@
   <br />
   𝐄𝐌𝐈 / 𝐄𝐌
   <br />
-  she / any
+  any pronouns
   <br />
   infj / 5w4
   <br />
