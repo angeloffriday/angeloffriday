@@ -16,3 +16,8 @@
   <br />
   ²ᵇᵃᵗ ¹ˢᵗ ᶠᵃⁿ ᵉᵛᵉʳ
   <br />
+<p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31os3ljr7caajgeuttnuhuuicm4y&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31os3ljr7caajgeuttnuhuuicm4y&cover_image=true&theme=natemoo-re&show_offline=false&background_color=9e827d&interchange=true&profanity=false&bar_color=4d0000&bar_color_cover=false">
+  </a>
+</p>
