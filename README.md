@@ -12,7 +12,7 @@
   19 yo
   <br />
   <p align="center">
-<img src="https://views-counter.vercel.app/badge?pageId=angeloffriday%2Fangeloffriday&leftColor=af928c&rightColor=580000=total&label=sillies&style=none" alt="Views Counter">
+<img src="https://views-counter.vercel.app/badge?pageId=angeloffriday%2Fangeloffriday&leftColor=af928c&rightColor=5a0000=total&label=sillies&style=none" alt="Views Counter">
   <br />
   <br />
   <img src="https://sanishtech.com/i/69130e9d5803a-1762856605.png" alt="Sans titre 103_20251109123150" width="164" height="130,7" loading="lazy" style="max-width:100%;height:auto;">
