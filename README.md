@@ -1,7 +1,7 @@
 <img width="1280" height="429" alt="image" src="https://github.com/user-attachments/assets/6ec0a6bd-a3ea-4243-b195-beade65139f2" />
 <br />
 <p align="center">
-  <img src="https://img.sanishtech.com/u/708555de4d208eba94c3c82370c9947c.png" alt="Sans titre 102_20251109171656" width="328" height="262" loading="lazy" style="max-width:100%;height:auto;">
+  <img src="https://img.sanishtech.com/u/25e3cc71aa7e256ea06cbd09f802ebce.png" alt="Sans titre 102_20251109171656" width="338" height="262" loading="lazy" style="max-width:100%;height:auto;">
   <br />
   𝐄𝐌𝐈 / 𝐄𝐌
   <br />
@@ -15,7 +15,7 @@
 <img src="https://views-counter.vercel.app/badge?pageId=angeloffriday%2Fangeloffriday&leftColor=af928c&rightColor=5a0000&type=total&label=sillies&style=none" alt="Views Counter">
   <br />
   <br />
-  <img src="https://sanishtech.com/i/69130e9d5803a-1762856605.png" alt="Sans titre 103_20251109123150" width="164" height="130,7" loading="lazy" style="max-width:100%;height:auto;">
+  <img src="https://img.sanishtech.com/u/fbe4e1a6307dac678274b41fb7b0083a.png" alt="Sans titre 103_20251109123150" width="164" height="130,7" loading="lazy" style="max-width:100%;height:auto;">
   <br />
   ²ᵇᵃᵗ ¹ˢᵗ ᶠᵃⁿ ᵉᵛᵉʳ
   <br />
