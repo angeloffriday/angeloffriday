@@ -15,7 +15,7 @@
 <img src="https://views-counter.vercel.app/badge?pageId=angeloffriday%2Fangeloffriday&leftColor=af928c&rightColor=5a0000&type=total&label=sillies&style=none" alt="Views Counter">
   <br />
   <br />
-  <img src="https://img.sanishtech.com/u/fbe4e1a6307dac678274b41fb7b0083a.png" alt="Sans titre 103_20251109123150" width="164" height="130,7" loading="lazy" style="max-width:100%;height:auto;">
+  <img src="https://img.sanishtech.com/u/a3d504293ab58c75e03c0ce48d678906.png" alt="Sans titre 103_20251109123150" width="164" height="130,7" loading="lazy" style="max-width:100%;height:auto;">
   <br />
   ²ᵇᵃᵗ ¹ˢᵗ ᶠᵃⁿ ᵉᵛᵉʳ
   <br />
