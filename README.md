@@ -12,13 +12,10 @@
   <br />
   19 yo
   <br />
+  <br />
   <p align="center">
 <img src="https://views-counter.vercel.app/badge?pageId=angeloffriday%2Fangeloffriday&leftColor=d0d6c8&rightColor=454f37&type=total&label=sillies&style=none" alt="Views Counter">
-  <br />
-  <br />
-  <img src="https://img.sanishtech.com/u/a3d504293ab58c75e03c0ce48d678906.png" alt="Sans titre 103_20251109123150" width="164" height="130,7" loading="lazy" style="max-width:100%;height:auto;">
-  <br />
-  ²ᵇᵃᵗ ¹ˢᵗ ᶠᵃⁿ ᵉᵛᵉʳ
+    <br />
   <br />
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31os3ljr7caajgeuttnuhuuicm4y&redirect=true">
