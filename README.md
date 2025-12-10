@@ -1,4 +1,6 @@
 <p align="center">
+  <img src="https://img.sanishtech.com/u/d18fa9ff895477e5d1ae04cb09aefad5.png" alt="1000222340" width="3726" height="1377" loading="lazy" style="max-width:100%;height:auto;">
+  <br />
   <img src="https://img.sanishtech.com/u/832471bf11c5c219391bd595cdd517c5.gif" alt="1000222322" width="150" height="30" loading="lazy" style="max-width:100%;height:auto;">
   <br />
   𝐄𝐌𝐈 / 𝐄𝐌
