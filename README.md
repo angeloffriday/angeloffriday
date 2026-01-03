@@ -23,5 +23,5 @@
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31os3ljr7caajgeuttnuhuuicm4y&redirect=true">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31os3ljr7caajgeuttnuhuuicm4y&cover_image=true&theme=natemoo-re&show_offline=false&background_color=9e827d&interchange=true&profanity=false&bar_color=454f37&bar_color_cover=false">
     <br />
-    <img src="https://img.sanishtech.com/u/911aeb782a9ec6eee67a0dd98587689a.png" alt="Sans titre 115_20251212194641" width="3728" height="1377" loading="lazy" style="max-width:100%;height:auto;">
+    <img src="https://img.sanishtech.com/u/911aeb782a9ec6eee67a0dd98587689a.png" alt="Sans titre 115_20251212194641" width="3726" height="1377" loading="lazy" style="max-width:100%;height:auto;">
 </p>
