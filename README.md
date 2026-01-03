@@ -2,7 +2,7 @@
   <img src="https://img.sanishtech.com/u/7c27117e8739d3b6da452a051bca1699.png" alt="IMG_1710" width="3726" height="1377" loading="lazy" style="max-width:100%;height:auto;">
   <br />
   <br />
-  <img src="https://img.sanishtech.com/u/5ead2d800f63d26692ff30fc21fa81a0.gif" alt="1000222322" width="300" height="60" loading="lazy" style="max-width:100%;height:auto;">
+  <img <img src="https://img.sanishtech.com/u/ed6a8124807391f1145374714fefb9e1.gif" alt="1000222322" width="300" height="60" loading="lazy" style="max-width:100%;height:auto;">
   <br />
   <br />
   𝐄ოі / 𝐄ო
