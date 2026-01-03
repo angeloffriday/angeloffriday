@@ -17,7 +17,7 @@
 <img src="https://views-counter.vercel.app/badge?pageId=angeloffriday%2Fangeloffriday&leftColor=d0d6c8&rightColor=454f37&type=total&label=sillies&style=none" alt="Views Counter">
     <br />
     <br />
-    <img src="https://img.sanishtech.com/u/dbdd86236df3437ff6fcda6e904f373d.gif" alt="1000222373" width="150" height="40" loading="lazy" style="max-width:100%;height:auto;">
+    <img <img src="https://img.sanishtech.com/u/013ebae3f96421c99eeecc44e8244596.gif" alt="1000222373" width="150" height="40" loading="lazy" style="max-width:100%;height:auto;">
     <br />
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31os3ljr7caajgeuttnuhuuicm4y&redirect=true">
