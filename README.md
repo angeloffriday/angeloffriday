@@ -1,7 +1,6 @@
 <p align="center">
   <img src="https://img.sanishtech.com/u/f9ead667ce801c26fc64cc7cd5599ead.png" alt="IMG_1710" width="3726" height="1366" loading="lazy" style="max-width:100%;height:auto;">
   <br />
-  <br />
   
 ```hi hellos
   hi hellos
