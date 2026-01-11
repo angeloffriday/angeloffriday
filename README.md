@@ -11,7 +11,6 @@
   <p align="center">
 <img src="https://views-counter.vercel.app/badge?pageId=angeloffriday%2Fangeloffriday&leftColor=d0d6c8&rightColor=454f37&type=total&label=sillies&style=none" alt="Views Counter">
     <br />
-    <br />
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31os3ljr7caajgeuttnuhuuicm4y&redirect=true">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31os3ljr7caajgeuttnuhuuicm4y&cover_image=true&theme=natemoo-re&show_offline=false&background_color=710606&interchange=true&profanity=false&bar_color=539B6D&bar_color_cover=false">
