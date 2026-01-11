@@ -2,22 +2,15 @@
   <img src="https://img.sanishtech.com/u/f9ead667ce801c26fc64cc7cd5599ead.png" alt="IMG_1710" width="3726" height="1366" loading="lazy" style="max-width:100%;height:auto;">
   <br />
   <br />
-  <img src="https://img.sanishtech.com/u/8faa65cf11a5a06710784857cdf833e2.gif" alt="a" width="300" height="60" loading="lazy" style="max-width:100%;height:auto;">
-  <br />
-  <br />
-  𝐄ოі / 𝐄ო
-  <br />
-  ᴀɴʏ ᴘʀᴏɴᴏᴜɴs
-  <br />
-  𝒊𝒏𝒇𝒋 / 𝟓𝒘𝟒
-  <br />
-  ¹⁹ ʸᵒ
+  
+```hi hellos
+  hi hellos
+```
+
   <br />
   <p align="center">
 <img src="https://views-counter.vercel.app/badge?pageId=angeloffriday%2Fangeloffriday&leftColor=d0d6c8&rightColor=454f37&type=total&label=sillies&style=none" alt="Views Counter">
     <br />
-    <br />
-    <img src="https://img.sanishtech.com/u/962d5b66ce9213d8d5d4f41987feb7ea.gif" alt="3490118tkpy8q66nl" width="150" height="40" loading="lazy" style="max-width:100%;height:auto;">
     <br />
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31os3ljr7caajgeuttnuhuuicm4y&redirect=true">
