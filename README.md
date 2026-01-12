@@ -2,9 +2,7 @@
   <img src="https://img.sanishtech.com/u/45ea3222a60b50c7042ebe1eba7d0693.png" alt="IMG_1801" width="736" height="272" loading="lazy" style="max-width:100%;height:auto;">
   <br />
   
-```hi hellos
-  hi hellos
-```
+---
 
   <br />
   <p align="center">
