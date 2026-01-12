@@ -1,9 +1,6 @@
 <p align="center">
   <img src="https://img.sanishtech.com/u/45ea3222a60b50c7042ebe1eba7d0693.png" alt="IMG_1801" width="736" height="272" loading="lazy" style="max-width:100%;height:auto;">
   <br />
-  
----
-
   <br />
   <p align="center">
 <img src="https://views-counter.vercel.app/badge?pageId=angeloffriday%2Fangeloffriday&leftColor=444f42&rightColor=d1aa75&type=total&label=sillies&style=none" alt="Views Counter">
