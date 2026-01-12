@@ -5,6 +5,8 @@
 ---
 
   <br />
+  <img src="https://img.sanishtech.com/u/62cbd726c76ed1cb9b03242bde652554.gif" alt="BA270538-1B98-4706-905D-7CE7BF2958A4" width="540" height="540" loading="lazy" style="max-width:100%;height:auto;">
+  <br />
   <p align="center">
 <img src="https://views-counter.vercel.app/badge?pageId=angeloffriday%2Fangeloffriday&leftColor=444f42&rightColor=d1aa75&type=total&label=sillies&style=none" alt="Views Counter">
     <br />
