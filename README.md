@@ -9,7 +9,7 @@
   <img src="https://img.sanishtech.com/u/9328d8e5ffe272ce9ff5e901aec31278.gif" alt="146EFF04-1956-40D3-A397-EF84C7F1948B" width="320" height="175" loading="lazy" style="max-width:100%;height:auto;">
   <img src="https://img.sanishtech.com/u/0bf8206ce34451306c2036c447f27041.gif" alt="7921CEE5-BD93-48F1-9D96-D7DC542BCFBF" width="183" height="139" loading="lazy" style="max-width:100%;height:auto;">
   <img src="https://img.sanishtech.com/u/48681f40ab6fb7a6ac6c6bee8dd32761.gif" alt="DD303709-D116-4668-8D63-C22784C74445" width="135" height="135" loading="lazy" style="max-width:100%;height:auto;">
-    <img src="https://img.sanishtech.com/u/3338d8dccb10e3a5acb0ad7444e27870.gif" alt="524C408F-5ACE-48B9-8DF0-36ECC1204C5D" width="280" height="125" loading="lazy" style="max-width:100%;height:auto;">
+    <img src="https://img.sanishtech.com/u/3338d8dccb10e3a5acb0ad7444e27870.gif" alt="524C408F-5ACE-48B9-8DF0-36ECC1204C5D" width="300" height="145" loading="lazy" style="max-width:100%;height:auto;">
   <br />
   <p align="center">
 <img src="https://views-counter.vercel.app/badge?pageId=angeloffriday%2Fangeloffriday&leftColor=444f42&rightColor=d1aa75&type=total&label=sillies&style=none" alt="Views Counter">
