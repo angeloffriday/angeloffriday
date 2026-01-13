@@ -17,6 +17,7 @@
     <img src="https://img.sanishtech.com/u/d0ea5585a346f2ed8958bfe9ff45f556.gif" alt="D18678CF-4B95-41D6-BB1C-15CC6929702C" width="112" height="66" loading="lazy" style="max-width:100%;height:auto;">
     <img src="https://img.sanishtech.com/u/1945ec20fd1a2c8c524e1ab9f732cc6b.gif" alt="39DABF4E-81BF-4671-B019-5E2844D20549" width="155" height="82" loading="lazy" style="max-width:100%;height:auto;">
     <img src="https://img.sanishtech.com/u/39d12160f59da71a63a12c8fa06d7078.gif" alt="A5889117-797E-4506-A5B1-02980845A68C" width="140" height="70" loading="lazy" style="max-width:100%;height:auto;">
+    <img src="https://img.sanishtech.com/u/cdfee3d5114a19a4e04078862a41ae82.gif" alt="0AECD9A9-466D-4EB9-846B-4982250AB8B0" width="140" height="70" loading="lazy" style="max-width:100%;height:auto;">
   <br />
   <br />
 
