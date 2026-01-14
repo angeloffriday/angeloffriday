@@ -10,7 +10,7 @@
     <br />
   <img src="https://img.sanishtech.com/u/9328d8e5ffe272ce9ff5e901aec31278.gif" alt="146EFF04-1956-40D3-A397-EF84C7F1948B" width="160" height="87" loading="lazy" style="max-width:100%;height:auto;">
   <img src="https://img.sanishtech.com/u/0bf8206ce34451306c2036c447f27041.gif" alt="7921CEE5-BD93-48F1-9D96-D7DC542BCFBF" width="91" height="91" loading="lazy" style="max-width:100%;height:auto;">
-  <img src="https://img.sanishtech.com/u/48681f40ab6fb7a6ac6c6bee8dd32761.gif" alt="DD303709-D116-4668-8D63-C22784C74445" width="66" height="66" loading="lazy" style="max-width:100%;height:auto;">
+  <img src="https://img.sanishtech.com/u/a52479a0bc0b2a290b8723934fb0b542.gif" alt="7A7CE475-E6F8-494B-8EE1-2860D46EC223" width="110" height="70" loading="lazy" style="max-width:100%;height:auto;">
     <img src="https://img.sanishtech.com/u/3338d8dccb10e3a5acb0ad7444e27870.gif" alt="524C408F-5ACE-48B9-8DF0-36ECC1204C5D" width="160" height="82" loading="lazy" style="max-width:100%;height:auto;">
     <img src="https://img.sanishtech.com/u/42f80e6cc34ef71b8edcc234b3b066fd.gif" alt="3874891D-2F17-463F-8374-AD73F3B1EAD1" width="118" height="72" loading="lazy" style="max-width:100%;height:auto;">
     <img src="https://img.sanishtech.com/u/0de2bafcba3cb10aa2d70b1c95f10ac0.gif" alt="9AB1E804-E9D7-4C42-A8C3-157A6BFF975A" width="118" height="94" loading="lazy" style="max-width:100%;height:auto;">
