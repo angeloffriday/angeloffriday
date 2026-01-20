@@ -36,5 +36,5 @@
 
 ---
     
-  <img src="https://img.sanishtech.com/u/741d6ec216200eb3573a91f00e7aaa99.png" alt="IMG_1802" width="736" height="272" loading="lazy" style="max-width:100%;height:auto;">
+  <img src="https://img.sanishtech.com/u/ac74ec3a16a4a8dab3a64dfba5781bf4.png" alt="IMG_1802" width="736" height="272" loading="lazy" style="max-width:100%;height:auto;">
 </p>
