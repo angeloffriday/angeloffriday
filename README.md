@@ -6,7 +6,10 @@
   
   <br />
   <p align="center">
-    if u recognize any of these, pls int!! (more to be added)
+     
+  check byi [strawpage](https://angeloffriday.straw.page/)
+
+
   <br />
   <br />
 
