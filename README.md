@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://img.sanishtech.com/u/b29ddafd1876e75974be13fe0b1c302b.png" alt="IMG_1801" width="736" height="272" loading="lazy" style="max-width:100%;height:auto;">
+  <img src="https://img.sanishtech.com/u/df17c351d08c6315e2691e2d864bdaed.png" alt="IMG_1801" width="736" height="272" loading="lazy" style="max-width:100%;height:auto;">
   <br />
   
   ---
