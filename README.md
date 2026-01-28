@@ -25,5 +25,5 @@
 
 ---
     
-  <img src="https://img.sanishtech.com/u/ac74ec3a16a4a8dab3a64dfba5781bf4.png" alt="IMG_1802" width="736" height="272" loading="lazy" style="max-width:100%;height:auto;">
+  <img src="https://img.sanishtech.com/u/509e4a7814493e437790f0cdab1b69df.png" alt="IMG_1802" width="736" height="272" loading="lazy" style="max-width:100%;height:auto;">
 </p>
