@@ -1,10 +1,10 @@
-<p align="center">
   <img src="https://img.sanishtech.com/u/df17c351d08c6315e2691e2d864bdaed.png" alt="IMG_1801" width="736" height="272" loading="lazy" style="max-width:100%;height:auto;">
   <br />
   <br />
-  <p align="center">
      
-  [strawpage](https://angeloffriday.straw.page/)
+ <p align="center"> 
+   
+   [strawpage](https://angeloffriday.straw.page/) [ata](https://angeloffriday.atabook.org/)
 
   <br />
   <br />
