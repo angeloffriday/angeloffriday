@@ -7,7 +7,7 @@
      
  <p align="center"> 
    
-   [strawpage](https://angeloffriday.straw.page/) [ata](https://angeloffriday.atabook.org/)
+   [strawpage](https://angeloffriday.straw.page/) / [atabook](https://angeloffriday.atabook.org/)
 
   <br />
   <br />
