@@ -4,8 +4,7 @@
 <img src="https://views-counter.vercel.app/badge?pageId=angeloffriday%2Fangeloffriday&leftColor=444f42&rightColor=d1aa75&type=total&label=sillies&style=none" alt="Views Counter">
     <br />
     <br />
-     
- <p align="center"> 
+      
    
    [strawpage](https://angeloffriday.straw.page/) / [atabook](https://angeloffriday.atabook.org/)
 
