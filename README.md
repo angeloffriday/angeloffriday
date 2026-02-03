@@ -3,6 +3,10 @@
   <p align="center">
 <img src="https://views-counter.vercel.app/badge?pageId=angeloffriday%2Fangeloffriday&leftColor=444f42&rightColor=d1aa75&type=total&label=sillies&style=none" alt="Views Counter">
     <br />
+    umm i'll figure how to deleted the bg of this gif later,,
+    <br />
+    <img src="https://img.sanishtech.com/u/935237b3314bfb2f7188cc094ca1b2b2.gif" alt="E7133CB0-D712-435D-B466-B6D8AB82D940" width="400" height="267" loading="lazy" style="max-width:100%;height:auto;">
+    <br />
     <br />
       
    
