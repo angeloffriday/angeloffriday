@@ -5,7 +5,7 @@
     <br />
     umm i'll figure out how to deleted the bg of this later,,
     <br />
-    <img src="https://img.sanishtech.com/u/935237b3314bfb2f7188cc094ca1b2b2.gif" alt="E7133CB0-D712-435D-B466-B6D8AB82D940" width="440" height="307" loading="lazy" style="max-width:100%;height:auto;">
+    <img src="https://img.sanishtech.com/u/4b79c53451ddd58f3c479c7271a0ce82.gif" alt="99578DB8-E724-4217-AD4C-A4626AEDD6E0" width="400" height="267" loading="lazy" style="max-width:100%;height:auto;">
     <br />
     <br />
        
