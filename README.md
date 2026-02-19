@@ -8,7 +8,7 @@
     <br />
     <br />
        
-   [strawpage](https://angeloffriday.straw.page/) / [atabook](https://angeloffriday.atabook.org/) / [guns.lol](https://guns.lol/angeloffriday) / [pronouns.page](https://en.pronouns.page/@angeloffriday)
+   [strawpage](https://angeloffriday.straw.page/) / [atabook](https://angeloffriday.atabook.org/) / [guns.lol](https://guns.lol/angeloffriday)
        
   <br />
   <br />
