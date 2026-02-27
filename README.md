@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://img.sanishtech.com/u/19388cc4913182364d8f00500f47c324.png" alt="IMG_1801" width="736" height="272" loading="lazy" style="max-width:100%;height:auto;">
+  <img src="https://img.sanishtech.com/u/d017f3224bc6f5e0b49ff43e4840c138.png" alt="IMG_1801" width="736" height="272" loading="lazy" style="max-width:100%;height:auto;">
   <br />
   <br />
 <img src="https://views-counter.vercel.app/badge?pageId=angeloffriday%2Fangeloffriday&leftColor=444f42&rightColor=d1aa75&type=total&label=sillies&style=none" alt="Views Counter">
