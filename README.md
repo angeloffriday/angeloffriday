@@ -5,7 +5,7 @@
 <img src="https://views-counter.vercel.app/badge?pageId=angeloffriday%2Fangeloffriday&leftColor=444f42&rightColor=d1aa75&type=total&label=sillies&style=none" alt="Views Counter">
     <br />
     <br />
-    <img src="https://img.sanishtech.com/u/3147919a0a4cebb483b4277283985806.gif" alt="99578DB8-E724-4217-AD4C-A4626AEDD6E0" width="400" height="267" loading="lazy" style="max-width:100%;height:auto;">
+    <img src="https://img.sanishtech.com/u/dec93862337fafda76e755ea450a3fee.gif" alt="99578DB8-E724-4217-AD4C-A4626AEDD6E0" width="400" height="267" loading="lazy" style="max-width:100%;height:auto;">
   </div>
 <div align="center">
     <br />
