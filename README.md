@@ -1,9 +1,8 @@
 <div align="center">
 <img src="https://views-counter.vercel.app/badge?pageId=angeloffriday%2Fangeloffriday&leftColor=444f42&rightColor=d1aa75&type=total&label=sillies&style=none" alt="Views Counter">
     <br />
-  idk why its blurry like that i'll have to fix it i think the file size is too small for github
     <br />
-    <img width="100%" src="https://i.postimg.cc/Wh0pBnnL/99578DB8-E724-4217-AD4C-A4626AEDD6E0.gif">
+    <img width="100%" src="https://github.com/angeloffriday/angeloffriday/blob/main/99578DB8-E724-4217-AD4C-A4626AEDD6E0.gif">
   </div>
 <div align="center">
     <br />
