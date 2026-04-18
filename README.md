@@ -1,7 +1,7 @@
 <div align="center">
     <img width="640" height="245" alt="17765088104154218380146506446767" src="https://github.com/user-attachments/assets/9871ddb2-d1f9-492e-b61d-12d83bdb018b" />
 <br />
-<img src="https://views-counter.vercel.app/badge?pageId=angeloffriday%2Fangeloffriday&leftColor=444f42&rightColor=d1aa75&type=total&label=sillies&style=none" alt="Views Counter">
+<img src="https://views-counter.vercel.app/badge?pageId=angeloffriday%2Fangeloffriday&leftColor=9CD53A&rightColor=d1aa75&type=total&label=sillies&style=none" alt="Views Counter">
     <br />
     <br />
     <img width="100%" src="https://github.com/angeloffriday/angeloffriday/blob/main/99578DB8-E724-4217-AD4C-A4626AEDD6E0.gif">
@@ -15,6 +15,6 @@
  <br />
  <br />
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31os3ljr7caajgeuttnuhuuicm4y&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31os3ljr7caajgeuttnuhuuicm4y&cover_image=true&theme=novatorem&show_offline=true&background_color=9e827d&interchange=true&profanity=false&bar_color=444f42&bar_color_cover=false">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31os3ljr7caajgeuttnuhuuicm4y&cover_image=true&theme=novatorem&show_offline=true&background_color=9CD53A&interchange=true&profanity=false&bar_color=9CD53A&bar_color_cover=false">
     <br />
 </p>
