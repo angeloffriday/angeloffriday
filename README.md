@@ -9,6 +9,8 @@
   </div>
 <div align="center">
     <br />
+    <img src="https://github.com/angeloffriday/angeloffriday/blob/main/IMG_2276.png">
+    <br />
     <p align="center">
 </p>
 
