@@ -16,6 +16,9 @@
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31os3ljr7caajgeuttnuhuuicm4y&redirect=true">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31os3ljr7caajgeuttnuhuuicm4y&cover_image=true&theme=novatorem&show_offline=true&background_color=9CD53A&interchange=true&profanity=false&bar_color=9CD53A&bar_color_cover=false">
     <br />
+    <div align="center">
+  <details open>
+<summary><b><strong>blinkies and stamps</strong></b></summary>
     <img width="100" height="13" alt="17765091819357514712051987870833" src="https://github.com/user-attachments/assets/c4484d66-28a9-4cbc-b5ce-a7c18da1718f" />
 <br />
 </p>
