@@ -1,5 +1,7 @@
 <div align="center">
 <br />
+    <img src="https://github.com/angeloffriday/angeloffriday/blob/main/IMG_2270.png">
+<br />
 <img src="https://views-counter.vercel.app/badge?pageId=angeloffriday%2Fangeloffriday&leftColor=9CD53A&rightColor=DEE4B5&type=total&label=sillies&style=none" alt="Views Counter">
     <br />
     <br />
