@@ -1,10 +1,9 @@
 <div align="center">
-    <img width="640" height="245" alt="17765088104154218380146506446767" src="https://github.com/user-attachments/assets/9871ddb2-d1f9-492e-b61d-12d83bdb018b" />
 <br />
 <img src="https://views-counter.vercel.app/badge?pageId=angeloffriday%2Fangeloffriday&leftColor=9CD53A&rightColor=DEE4B5&type=total&label=sillies&style=none" alt="Views Counter">
     <br />
     <br />
-    <img width="100%" src="https://github.com/angeloffriday/angeloffriday/blob/main/99578DB8-E724-4217-AD4C-A4626AEDD6E0.gif">
+    <img width="500" height="213" alt="image" src="https://github.com/user-attachments/assets/73a23287-df1c-4805-97b8-606a32444429" />
   </div>
 <div align="center">
     <br />
