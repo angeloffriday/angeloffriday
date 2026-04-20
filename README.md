@@ -13,7 +13,7 @@
 <p align="center">
 </p>
 
- ꒰ [新𝐵𝒪𝒪𝒦](https://angeloffriday.atabook.org/) ঌ [𝒮𝒯𝑅𝒜𝒲𝒫𝒜𝒢𝐸](https://angeloffriday.straw.page) ᛝ [𝒢𝒰𝒩𝒮.𝐿𝒪𝐿](https://guns.lol/angeloffriday) ໒ [𝐿𝒜𝒮𝒯.𝐹𝑀](https://www.last.fm/fr/user/angeloffriday) ꒱
+ ꒰ [新ʙᴏᴏᴋ](https://angeloffriday.atabook.org/) ঌ [ꜱᴛʀᴀᴡᴘᴀɢᴇ](https://angeloffriday.straw.page) ᛝ [ɢᴜɴꜱ.ʟᴏʟ](https://guns.lol/angeloffriday) ໒ [ʟᴀꜱᴛ.ꜰᴍ](https://www.last.fm/fr/user/angeloffriday) ꒱
  <br />
  <br />
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31os3ljr7caajgeuttnuhuuicm4y&redirect=true">
