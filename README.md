@@ -1,4 +1,3 @@
-<img width="150" height="100" alt="image" src="https://github.com/user-attachments/assets/3b4720fa-f1fe-4130-8bfc-0cc0c39a3460" /><div align="center">
 <br />
     <img src="https://github.com/angeloffriday/angeloffriday/blob/main/IMG_2270.png">
 <br />
