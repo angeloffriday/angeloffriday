@@ -15,7 +15,7 @@
     <p align="center">
 </p>
 
- [atabook](https://angeloffriday.atabook.org/)  ⸝⸝ [strawpage](https://angeloffriday.straw.page) ⸝⸝ [guns.lol](https://guns.lol/angeloffriday) ⸝⸝ [last.fm](https://www.last.fm/fr/user/angeloffriday)
+ [新BOOK](https://angeloffriday.atabook.org/)  ⸝⸝ [STRAWPAGE](https://angeloffriday.straw.page) ⸝⸝ [GUNS.LOL](https://guns.lol/angeloffriday) ⸝⸝ [LAST.FM](https://www.last.fm/fr/user/angeloffriday)
  <br />
  <br />
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31os3ljr7caajgeuttnuhuuicm4y&redirect=true">
