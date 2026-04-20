@@ -32,5 +32,6 @@
 <div align="center">
   <details open>
 <summary><b><strong>stamps</strong></b></summary>
+      <img width="101" height="55" alt="image" src="https://github.com/user-attachments/assets/849414ac-c822-41d9-88d7-0a1cf039dcbc" /> <img src ="https://64.media.tumblr.com/24dfdb46187161691d44e7819e740221/3671a26edef10d5d-bc/s100x200/2e00a49b106c65faa48361518ef6c03047ddc1ef.webp">
 <br />
 </p>
