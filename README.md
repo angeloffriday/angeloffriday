@@ -21,7 +21,8 @@
     <br />
   <details open>
 <summary><b><strong>blinkies</strong></b></summary>
-    <img width="150" height="20" alt="17765091819357514712051987870833" src="https://github.com/user-attachments/assets/c4484d66-28a9-4cbc-b5ce-a7c18da1718f" /> <img width="150" height="20" alt="image" src="https://github.com/user-attachments/assets/bf0ee297-d95b-4c56-b095-3b52ad1392d0" /> <img width="150" height="20" alt="image" src="https://github.com/user-attachments/assets/069e5b6d-fc8d-49cd-a6a4-b1b1f0ab7c8a" /> <img width="150" height="20" alt="image" src="https://github.com/user-attachments/assets/8b5ece02-570a-479a-998e-11df76b5f354" /> <img width="150" height="20" alt="image" src="https://github.com/user-attachments/assets/ed1ac8c1-2734-467d-aa7f-9654eb3b164a" />
+    <img width="150" height="20" alt="17765091819357514712051987870833" src="https://github.com/user-attachments/assets/c4484d66-28a9-4cbc-b5ce-a7c18da1718f" /> <img width="150" height="20" alt="image" src="https://github.com/user-attachments/assets/bf0ee297-d95b-4c56-b095-3b52ad1392d0" /> <img width="150" height="20" alt="image" src="https://github.com/user-attachments/assets/069e5b6d-fc8d-49cd-a6a4-b1b1f0ab7c8a" /> <img width="150" height="20" alt="image" src="https://github.com/user-attachments/assets/8b5ece02-570a-479a-998e-11df76b5f354" /> <img width="150" height="20" alt="image" src="https://github.com/user-attachments/assets/ed1ac8c1-2734-467d-aa7f-9654eb3b164a" /> <img width="150" height="20" alt="image" src="https://github.com/user-attachments/assets/b32770c1-4e86-4b20-aff6-a282b3fd6b4b" />
+
 </div>
 </details>
 
