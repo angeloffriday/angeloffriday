@@ -38,7 +38,7 @@
 
 <br />
 <br />
-
+</details>
 
 pony town’s travis phelps by [pt-of-awesomeness](https://github.com/pt-of-awesomeness/) !!!!
 <br />
