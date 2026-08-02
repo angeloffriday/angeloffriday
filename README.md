@@ -40,7 +40,7 @@
 <br />
 </details>
 
-pony town’s travis phelps by [@pt-of-awesomeness](https://github.com/pt-of-awesomeness/), [@pt-walk-of-fame](https://github.com/pt-walk-of-fame/) and [@pt-hall-of-media](https://github.com/pt-hall-of-media/) !!!!
+pony town’s travis phelps by [@title-town](https://github.com/title-town/), [@pt-of-awesomeness](https://github.com/pt-of-awesomeness/), [@pt-walk-of-fame](https://github.com/pt-walk-of-fame/) and [@pt-hall-of-media](https://github.com/pt-hall-of-media/) !!!!
 <br />
   <img src="https://github.com/angeloffriday/angeloffriday/blob/main/pony-town-travis%20%E2%8A%B9%20%F0%9F%AA%A6%20%E2%80%94%20s%D2%93%E3%80%9E%20%5Bc%2Bh%3B%20w2i%5D-dance%20move%201-padded-toy205-4x.gif">
   <br />
