@@ -16,8 +16,7 @@
  ꒰ [新ʙᴏᴏᴋ](https://angeloffriday.atabook.org/) ঌ [ꜱᴛʀᴀᴡᴘᴀɢᴇ](https://angeloffriday.straw.page) ᛝ [ɢᴜɴꜱ.ʟᴏʟ](https://guns.lol/angeloffriday) ໒ [ʟᴀꜱᴛ.ꜰᴍ](https://www.last.fm/fr/user/angeloffriday) ꒱
  <br />
  <br />
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31os3ljr7caajgeuttnuhuuicm4y&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31os3ljr7caajgeuttnuhuuicm4y&cover_image=true&theme=novatorem&show_offline=true&background_color=9CD53A&interchange=true&profanity=false&bar_color=9CD53A&bar_color_cover=false">
+  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31os3ljr7caajgeuttnuhuuicm4y&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=9cd53a&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
     <br />
   <details open>
 <summary><b><strong>blinkies</strong></b></summary>
